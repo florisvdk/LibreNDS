@@ -1,4 +1,9 @@
-                    GNU GENERAL PUBLIC LICENSE
+Note
+
+LibreNDS is covered by the GPLv3, and includes exceptions for included
+third-party packages.  Please see README.md for details.
+
+                       GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
